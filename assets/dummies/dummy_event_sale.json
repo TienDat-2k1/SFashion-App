@@ -1,0 +1,25 @@
+{
+    "events": [
+        {
+            "id": "event01",
+            "title": "Christmas",
+            "description": "Welcome to our 3rd annual Ethical Christmas Shopping Guide.  I have invited my friend Ali back to help me tell you about some amazing products that will help you with everyone on your Christmas list!",
+            "salePercent": 20,
+            "image": "assets/images/event_1.png"
+        },
+        {
+            "id": "event02",
+            "title": "Fall - Winter",
+            "description": "We're on the lookout for coats and jackets on sale, but a scroll through the sales below will reveal discount sneakers and sportswear as well as streetwear on sale and luxury fashion. It’s all here and it’s all reduced for the new year.",
+            "salePercent": 30,
+            "image": "assets/images/event_2.png"
+        },
+        {
+            "id": "event03",
+            "title": "Black Friday",
+            "description": "Welcome to Black Friday Deals UK – a site dedicated to cataloging the huge discounts and online sales that are offered throughout the United Kingdom in honour of this momentous shopping occasion.",
+            "salePercent": 40,
+            "image": "assets/images/event_3.png"
+        }
+    ]
+}
